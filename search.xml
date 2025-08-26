@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Java反序列化通杀之 Jackson JDK全版本通杀 + Fastjson全版本通杀链</title>
+      <link href="/2025/08/26/java-fan-xu-lie-hua-tong-sha-zhi-jackson-jdk-quan-ban-ben-tong-sha-fastjson-quan-ban-ben-tong-sha-lian/index/"/>
+      <url>/2025/08/26/java-fan-xu-lie-hua-tong-sha-zhi-jackson-jdk-quan-ban-ben-tong-sha-fastjson-quan-ban-ben-tong-sha-lian/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/18701">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>从漏洞聚集现象到o2oa的20个0day漏洞挖掘</title>
       <link href="/2025/08/25/cong-lou-dong-ju-ji-xian-xiang-dao-o2oa-de-20-ge-0day-lou-dong-wa-jue/index/"/>
       <url>/2025/08/25/cong-lou-dong-ju-ji-xian-xiang-dao-o2oa-de-20-ge-0day-lou-dong-wa-jue/index/</url>
@@ -34,7 +47,7 @@
       <link href="/2025/08/18/cong-mall-0day-idor-wa-jue-kan-spring-quan-xian-guan-li/index/"/>
       <url>/2025/08/18/cong-mall-0day-idor-wa-jue-kan-spring-quan-xian-guan-li/index/</url>
       
-        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/18639">xz</a></p>]]></content>
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/18639">xz</a></p><p>值得一提的是mall的作者态度非常恶劣，直接删issue+拉黑一套处理了……</p>]]></content>
       
       
       

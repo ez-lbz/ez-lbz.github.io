@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>PyTorch torch.export.load 隐藏的反序列化 RCE 漏洞</title>
+      <link href="/2026/03/19/pytorch-torch.export.load-yin-cang-de-fan-xu-lie-hua-rce-lou-dong/index/"/>
+      <url>/2026/03/19/pytorch-torch.export.load-yin-cang-de-fan-xu-lie-hua-rce-lou-dong/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/91755">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>用AI做代码安全审计：claude-code-security-skills 项目解析</title>
       <link href="/2026/03/10/yong-ai-zuo-dai-ma-an-quan-shen-ji-claude-code-security-skills-xiang-mu-jie-xi/index/"/>
       <url>/2026/03/10/yong-ai-zuo-dai-ma-an-quan-shen-ji-claude-code-security-skills-xiang-mu-jie-xi/index/</url>

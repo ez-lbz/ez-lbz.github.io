@@ -4,6 +4,58 @@
   
     
     <entry>
+      <title>中转钓鱼攻击劫持 opencode，claudecode，openclaw</title>
+      <link href="/2026/05/05/zhong-zhuan-diao-yu-gong-ji-jie-chi-opencode-claudecode-openclaw/index/"/>
+      <url>/2026/05/05/zhong-zhuan-diao-yu-gong-ji-jie-chi-opencode-claudecode-openclaw/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/92038">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Agent Mitm Hijack</title>
+      <link href="/2026/05/05/agent-mitm-hijack/index/"/>
+      <url>/2026/05/05/agent-mitm-hijack/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/92030">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tomcat Tribes 分布式通信节点反序列化分析</title>
+      <link href="/2026/05/05/tomcat-tribes-fen-bu-shi-tong-xin-jie-dian-fan-xu-lie-hua-fen-xi/index/"/>
+      <url>/2026/05/05/tomcat-tribes-fen-bu-shi-tong-xin-jie-dian-fan-xu-lie-hua-fen-xi/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/91980">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PY-RASP 项目深度拆解</title>
+      <link href="/2026/05/05/py-rasp-xiang-mu-shen-du-chai-jie/index/"/>
+      <url>/2026/05/05/py-rasp-xiang-mu-shen-du-chai-jie/index/</url>
+      
+        <content type="html"><![CDATA[<p>见<a href="https://xz.aliyun.com/news/91810">xz</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PyTorch torch.export.load 隐藏的反序列化 RCE 漏洞</title>
       <link href="/2026/03/19/pytorch-torch.export.load-yin-cang-de-fan-xu-lie-hua-rce-lou-dong/index/"/>
       <url>/2026/03/19/pytorch-torch.export.load-yin-cang-de-fan-xu-lie-hua-rce-lou-dong/index/</url>
